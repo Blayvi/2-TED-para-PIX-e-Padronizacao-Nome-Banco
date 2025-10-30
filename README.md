@@ -24,3 +24,5 @@ Durante o desenvolvimento, foram aprendidas e aplicadas boas práticas de automa
 
 -Resultado:
 O uso dessas automações reduziu significativamente o tempo gasto em processos manuais dentro do TOTVS, garantindo mais agilidade, consistência e menor risco de erro humano. Além disso, o projeto reforçou habilidades em automação de processos (RPA), tratamento de exceções, e interação com interfaces gráficas usando Python.
+
+OBS: Algumas partes do código foram ajustadas para preservar informações sensíveis e garantir conformidade com políticas internas de segurança, sem impactar a funcionalidade principal do projeto.
